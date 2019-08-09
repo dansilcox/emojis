@@ -1,1 +1,1 @@
-# emojis
+# Harvested emojis from various chat clients 
